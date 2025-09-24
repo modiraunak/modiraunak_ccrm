@@ -1,4 +1,4 @@
-# Campus Course & Records Manager (CCRM) Made By Raunak Kumar Modi  RegNo:24BCE10279
+# Campus Course & Records Manager (CCRM) Made By Raunak Kumar Modi  RegNo: 24BCE10279
 
 A console-based Java SE application to manage Students, Courses, Enrollments, Grades, Transcripts, and File Utilities.
 Built to demonstrate core Java language features, OOP pillars, Streams, NIO.2, Date/Time API, interfaces, abstract classes, nested classes, enums, lambdas, recursion, and design patterns (Singleton & Builder).
